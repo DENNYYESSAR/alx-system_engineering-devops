@@ -1,2 +1,2 @@
 #!/bim/bash
-0-current_working_diretory
+pwd
