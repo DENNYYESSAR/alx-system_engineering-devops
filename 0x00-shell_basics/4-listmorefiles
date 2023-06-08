@@ -1,2 +1,2 @@
-#!/bib/bash
-ls -a
+#!/bin/bash
+ls -l -a
